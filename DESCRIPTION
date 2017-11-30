@@ -23,6 +23,6 @@ Imports: devtools,
     miniUI,
     methods,
     swagger
-Remotes: hrbrmstr/swagger
+Remotes: jonmcalder/swagger
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.0.1

@@ -3,6 +3,7 @@
 export(createAnalysisProject)
 export(createBasicProject)
 export(createPackageProject)
+export(createSwaggerProject)
 export(createTrainingProject)
 importFrom(swagger,swag)
 importFrom(utils,packageVersion)
