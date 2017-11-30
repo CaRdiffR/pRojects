@@ -21,6 +21,8 @@ Imports: devtools,
     packrat,
     shiny,
     miniUI,
-    methods
+    methods,
+    swagger
+Remotes: hrbrmstr/swagger
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.0.1

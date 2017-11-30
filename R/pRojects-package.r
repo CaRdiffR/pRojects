@@ -10,5 +10,6 @@
 #' @name pRojects
 #' @docType package
 #'
+#' @importFrom swagger swag
 #' @importFrom utils packageVersion
 NULL
